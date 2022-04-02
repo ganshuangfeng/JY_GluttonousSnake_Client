@@ -1,0 +1,170 @@
+{
+    "ident": "",
+    "last_version": "6.1.2",
+    "config_version": "",
+    "config_md5": "",
+    "website": "",
+    "svr_list": [
+        "http://jydown.jyhd919.cn/jydown/Version2020Debug/Update/V5/fztf_test/",
+        "http://cdnjydown.jyhd919.cn/jydown/Version2020Debug/Update/V5/fztf_test/"
+    ],
+    "svr_data": [
+        "http://cdnjydown.jyhd919.cn/jydown/Version2020Debug/Update/V5/fztf_test/",
+        "http://jydown.jyhd919.cn/jydown/Version2020Debug/Update/V5/fztf_test/"
+    ],
+    "svr_game": [
+        "192.168.10.4:5201"
+    ],
+    "restart": false,
+    "check_md5": true,
+    "update_tiny": false,
+    "server_status": "",
+    "download_timeout": 30,
+    "history": [],
+    "games": [
+        {
+            "Name": "CommonPrefab",
+            "Size": 8505801
+        },
+        {
+            "Name": "game_Hall",
+            "Size": 650128
+        },
+        {
+            "Name": "game_CS",
+            "Size": 40382253
+        }
+    ],
+    "md5s": [
+        {
+            "Name": "udf.txt",
+            "MD5": "ab6838c26dbccc8f450d95c6845815b7",
+            "Size": 530
+        },
+        {
+            "Name": "activity/udf.txt",
+            "MD5": "04377b902ad324d2684274ff05784ff1",
+            "Size": 137
+        },
+        {
+            "Name": "channel/udf.txt",
+            "MD5": "de7e738ab1a0c945fc4a2245014dd605",
+            "Size": 136
+        },
+        {
+            "Name": "common/udf.txt",
+            "MD5": "ec00c22a34f051f238b59769be95b740",
+            "Size": 91
+        },
+        {
+            "Name": "commonprefab/udf.txt",
+            "MD5": "49be66dce36413ccd245490582c58909",
+            "Size": 141
+        },
+        {
+            "Name": "framework/udf.txt",
+            "MD5": "8b0ef5a71c0b7a353c9b55c554c8dcf5",
+            "Size": 94
+        },
+        {
+            "Name": "game_cs/udf.txt",
+            "MD5": "77552b1323f9783601c988cfd380f40c",
+            "Size": 136
+        },
+        {
+            "Name": "game_hall/udf.txt",
+            "MD5": "6ae2a386ccc8d37e47147feb902b74da",
+            "Size": 138
+        },
+        {
+            "Name": "game_loding/udf.txt",
+            "MD5": "af896cf83f0939bd480e829f2dd9f7e6",
+            "Size": 140
+        },
+        {
+            "Name": "game_login/udf.txt",
+            "MD5": "f0b2ff5ed59fde0d095630ba58348f21",
+            "Size": 139
+        },
+        {
+            "Name": "game_stageeditor/udf.txt",
+            "MD5": "f51f407807cb9cd9ee43cedb576316c6",
+            "Size": 145
+        },
+        {
+            "Name": "loadingpanel/udf.txt",
+            "MD5": "efd127ba650314afe2351dc4d555554c",
+            "Size": 97
+        },
+        {
+            "Name": "sproto/udf.txt",
+            "MD5": "f57ec013d1248838479ad6fded31a5f5",
+            "Size": 91
+        },
+        {
+            "Name": "file_list.txt",
+            "MD5": "8aa9184e61f569493d071d126b182427",
+            "Size": 308
+        },
+        {
+            "Name": "activity/file_list.txt",
+            "MD5": "6161e7a816f78920cd6e4fb9413df27d",
+            "Size": 2087
+        },
+        {
+            "Name": "channel/file_list.txt",
+            "MD5": "a7e6a2a8d9a2fc3c7f810a3d9f576f9a",
+            "Size": 100
+        },
+        {
+            "Name": "common/file_list.txt",
+            "MD5": "5e9f4c0c6963f51f7dcfb574f7884332",
+            "Size": 96
+        },
+        {
+            "Name": "commonprefab/file_list.txt",
+            "MD5": "7bb1409298227272bb05959f66e951e9",
+            "Size": 2393
+        },
+        {
+            "Name": "framework/file_list.txt",
+            "MD5": "7345ce1c07ea4c454a12f155f65d170c",
+            "Size": 101
+        },
+        {
+            "Name": "game_cs/file_list.txt",
+            "MD5": "2d806df17b7e6f4604091bd5c1fe0d1a",
+            "Size": 9474
+        },
+        {
+            "Name": "game_hall/file_list.txt",
+            "MD5": "e5042832032de7a28481cffdc5cfef52",
+            "Size": 441
+        },
+        {
+            "Name": "game_loding/file_list.txt",
+            "MD5": "6ce4785eae8aac7855815629f0b43c46",
+            "Size": 441
+        },
+        {
+            "Name": "game_login/file_list.txt",
+            "MD5": "095fe96303c6c1446378caa54590f15f",
+            "Size": 439
+        },
+        {
+            "Name": "game_stageeditor/file_list.txt",
+            "MD5": "c4e69b020694f74da23901c9412eef6b",
+            "Size": 359
+        },
+        {
+            "Name": "loadingpanel/file_list.txt",
+            "MD5": "8288f1607a32f788b6c90220d30338b2",
+            "Size": 233
+        },
+        {
+            "Name": "sproto/file_list.txt",
+            "MD5": "a6268d81a5e165c375f687f935fb0e41",
+            "Size": 95
+        }
+    ]
+}

@@ -1,0 +1,10 @@
+sys_setting|设置|1
+factory|工厂|1
+hall_bottom|大厅下部|1
+adventure|冒险|1
+sys_signin|签到|1
+sys_banner|系统banner|1
+technology|科技|1
+shop|商店|1
+task|任务界面|1
+task_main|主线任务|1

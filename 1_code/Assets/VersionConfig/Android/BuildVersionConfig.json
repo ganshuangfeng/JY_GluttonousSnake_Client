@@ -1,0 +1,36 @@
+{
+  "svr_list": [
+    "http://jydown.jyhd919.cn/jydown/Version2020Debug/Update/V5/fztf_test/",
+    "http://cdnjydown.jyhd919.cn/jydown/Version2020Debug/Update/V5/fztf_test/"
+  ],
+  "svr_data": [
+    "http://cdnjydown.jyhd919.cn/jydown/Version2020Debug/Update/V5/fztf_test/",
+    "http://jydown.jyhd919.cn/jydown/Version2020Debug/Update/V5/fztf_test/"
+  ],
+  "svr_game": [
+    "192.168.10.4:5201"
+  ],
+  "Version": "6.1.2",
+  "options": [
+    {
+      "rootDir": "CommonPrefab",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": []
+    },
+    {
+      "rootDir": "game_Hall",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_CS",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    }
+  ]
+}

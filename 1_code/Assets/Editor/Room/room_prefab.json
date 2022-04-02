@@ -1,0 +1,68 @@
+{
+  "prefab": [
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/building_box.prefab",
+      "image": "Assets/Game/game_CS/Image/map2d/2D_map_xiangzi_01.png",
+      "desc": "像砖头",
+      "w": 1,
+      "h": 1,
+      "scale": 1
+    },
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/building_shrub.prefab",
+      "image": "Assets/Game/game_CS/Image/map2d/2D_wujian_01.png",
+      "desc": "石头柱子",
+      "w": 2,
+      "h": 2,
+      "scale": 1
+    },
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/building_spike.prefab",
+      "image": "Assets/Game/game_CS/Image/map2d/2D_wujian_dici.png",
+      "desc": "地刺1",
+      "w": 1,
+      "h": 1,
+      "scale": 1.03896
+    },
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/building_water2.prefab",
+      "image": "Assets/Game/game_CS/Image/map2d/map1/2D_map_he_02.png",
+      "desc": "河流--直道",
+      "w": 1,
+      "h": 1,
+      "scale": 1
+    },
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/building_water2.prefab",
+      "image": "Assets/Game/game_CS/Image/map2d/map1/2D_map_he_02.png",
+      "desc": "河流--直道",
+      "w": 1,
+      "h": 1,
+      "scale": 1
+    },
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/prop_gold_coin1.prefab",
+      "image": "Assets/Game/game_CS/Image/Tietu/2D_map_diaoluodaoju _jinbi.png",
+      "desc": "金币",
+      "w": 2,
+      "h": 2,
+      "scale": 1
+    },
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/prop_gold_coin2.prefab",
+      "image": "Assets/Game/game_CS/Image/Tietu/2D_map_diaoluodaoju _jinbi.png",
+      "desc": "金币",
+      "w": 1,
+      "h": 1,
+      "scale": 1
+    },
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/prop_gold_coin3.prefab",
+      "image": "Assets/Game/game_CS/Image/Tietu/2D_map_diaoluodaoju _jinbi.png",
+      "desc": "金币",
+      "w": 1,
+      "h": 1,
+      "scale": 1
+    }
+  ]
+}

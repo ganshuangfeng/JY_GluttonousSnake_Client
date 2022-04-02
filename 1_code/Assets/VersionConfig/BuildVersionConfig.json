@@ -1,0 +1,36 @@
+{
+  "svr_list": [
+    "http://jydown.jyhd919.cn/jydown/Version2020/Update/T1/tcs/",
+    "http://cdnjydown.jyhd919.cn/jydown/Version2020/Update/T1/tcs/"
+  ],
+  "svr_data": [
+    "http://cdnjydown.jyhd919.cn/jydown/Version2020/Update/T1/tcs/",
+    "http://jydown.jyhd919.cn/jydown/Version2020/Update/T1/tcs/"
+  ],
+  "svr_game": [
+    "8.129.217.169:5001"
+  ],
+  "Version": "3.1.1",
+  "options": [
+    {
+      "rootDir": "CommonPrefab",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": []
+    },
+    {
+      "rootDir": "game_Hall",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    },
+    {
+      "rootDir": "game_CS",
+      "useBasicVersion": true,
+      "isExtract": true,
+      "dependList": [
+      ]
+    }
+  ]
+}

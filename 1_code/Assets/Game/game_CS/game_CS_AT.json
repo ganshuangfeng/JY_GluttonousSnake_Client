@@ -1,0 +1,10 @@
+{
+    "preload": [
+    ],
+    "assetConfig": [
+        {
+            "assetName" : "battle_BOSS_BGM.mp3",
+            "lifeType" : 1
+        }
+    ]
+}

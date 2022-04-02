@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GuiCamera
+  - GameManager
+  - UICanvas
+  - HeroWait
+  - dimian
+  - dimian_dise
+  - dimian_huawen
+  - dimian_zhuangshi
+  - dimian_zhuangshi_up
+  - qiangzhu
+  - qiangtou
+  - qiangtoucao
+  - qiangtouhua
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 3D
+  - Monster
+  - Hero
+  - hero_head
+  - hero_zd
+  - monster_zd
+  - wj
+  - active_floor
+  - MapBuilding
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: 
+    uniqueID: 3312128229
+    locked: 0

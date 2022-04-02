@@ -1,0 +1,20 @@
+{
+  "map_data": [
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/building_box.prefab",
+      "image": "Assets/Game/game_CS/Image/map2d/map_decorate/qingtai/2D_map_caopi_03.png",
+      "desc": "草地无边框",
+      "w": 3.33,
+      "h": 3.15,
+      "scale": 1
+    },
+    {
+      "path": "Assets/Game/game_CS/Image/map2d/map1/component_single/building_shrub.prefab",
+      "image": "Assets/Game/game_CS/Image/map2d/map_decorate/qingtai/2D_map_caopi_02.png",
+      "desc": "草地无边框中间有点缀",
+      "w": 3.33,
+      "h": 3.15,
+      "scale": 1
+    }
+  ]
+}
